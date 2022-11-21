@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://comforting-douhua-96dbe4.netlify.app">
-    <img src="https://seeklogo.com/images/A/adobe-portfolio-logo-BD502F658C-seeklogo.com.png" alt="Twitter Badge" width="10"/>
+    <img src="https://seeklogo.com/images/A/adobe-portfolio-logo-BD502F658C-seeklogo.com.png" alt="Twitter Badge" width="50"/>
   </a>
 </div>
 
