@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I  read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/lomate-rutuja-1aa4bb238/")
+<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/lomate-rutuja-1aa4bb238/") -->
 
 
 
