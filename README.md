@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://comforting-douhua-96dbe4.netlify.app/project" alt="Twitter Badge"/>
   </a>
 </div>
 
