@@ -1,8 +1,9 @@
 ### Hi there 👋
+<p>Highly enthusiastic and hardworking developer. A person who is eager to learn new technologies have been able to deliver a consistent approach throughout a challenging period of development.</p>
 
 <!--
 **Rutujalomate/Rutujalomate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <p>Highly enthusiastic and hardworking developer. A person who is eager to learn new technologies have been able to deliver a consistent approach throughout a challenging period of development.</p>
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
