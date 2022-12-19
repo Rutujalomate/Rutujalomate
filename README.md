@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://comforting-douhua-96dbe4.netlify.app">
+  <a href="https://rutujalomate.github.io/">
     <img src="https://seeklogo.com/images/A/adobe-portfolio-logo-BD502F658C-seeklogo.com.png" alt="Twitter Badge" width="30"/>
   </a>
 </div>
